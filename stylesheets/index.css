@@ -1,0 +1,94 @@
+.container {
+	width: 90%;
+}
+
+body {
+	background-color: #01A17B;
+}
+
+#top-row {
+	margin-bottom: 0px;
+}
+
+/*#main-row {
+	border-bottom: 1px white solid;
+}*/
+
+h2 {
+	color: white;
+}
+
+.headline-sub-head {
+	color: black;
+}
+
+
+#nyny {
+	width: 800px;
+	height: auto;
+}
+
+.sub-head {
+	color: white;
+	font-size: 2em;
+}
+
+#featured {
+	border-right: 1px solid white;
+}
+
+#links-row {
+
+}
+
+a {
+	text-decoration: underline;
+	color: white;
+}
+
+.collapsible-body {
+	background-color: #01A17B;
+	border-style: none;
+}
+
+.collapsible-body p {
+	/*color: white;*/
+	padding: 0px;
+}
+
+.collapsible-header {
+	background-color: #01A17B;
+	border-color: #01A17B;
+	padding: 0px;
+	margin-top: 20px;
+
+}
+
+.collapsible-header i {
+	float: none;
+	display: inline;
+	color: white;
+
+}
+
+.collapsible {
+	border-style: none;
+	box-shadow: none;
+}
+
+#featured {
+	padding-right: 3px;
+}
+
+li {
+	display: inline;
+}
+
+.project {
+	color: black;
+}
+
+.proj-name {
+	color: white;
+	font-size: 2em;
+}
