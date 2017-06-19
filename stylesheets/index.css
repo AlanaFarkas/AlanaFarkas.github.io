@@ -22,6 +22,7 @@ h2 {
 	color: black;
 }
 
+.img-container {display: flex!important;}
 
 #nyny {
 	width: 800px;
